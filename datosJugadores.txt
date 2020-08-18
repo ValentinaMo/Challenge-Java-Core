@@ -1,0 +1,9 @@
+8
+player1 1
+player2 2
+player1 3
+player2 4
+player1 1
+player2 2
+player1 6
+player2 2
